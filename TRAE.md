@@ -3,7 +3,7 @@
 ## 产品概述
 
 ### 产品名称
-MakeTruth
+[Make Truth](https://www.maketruth.art/)
 
 ### 产品简介
 MakeTruth是一款创新的社交媒体内容生成工具，专门用于生成川普风格的Truth Social截图。用户可以自定义帖子内容，并通过AI优化功能让内容更贴近川普的独特表达风格。
